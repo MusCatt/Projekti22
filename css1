@@ -6,33 +6,90 @@
 }
 
 
+body, html {
+  
+}
 
 
 .logo {
-    ###
-    /* HTML */
-    <nav class="navigointipalkki">
-    <img class="logo" id="up" src="https://p4.wallpaperbetter.com/wallpaper/202/268/24/route-66-neon-numbers-inscription-wallpaper-preview.jpg">
-    ###
 }
 
+ 
 
-
-.background {
+.tausta {
 
 }
 
+.hero-image {
+
+}
 
 
+.hero-text {
+
+}
 
 
+ol,ul {
+
+}
+#mainMenu {
+
+	
+
+}
+#mainMenu li {
+	
+
+.otsikko1 {
+
+}
+
+.bg-img {
+ 
+}
+
+.flex-container {
+
+}
+
+.valikko {
+
+}
+
+.valikko a {
+
+}
+
+.valikko a:hover {
+  
+}
+
+.sticky {
+  
+}
+
+ol,li {
+	
+}
+
+.kontti {
+
+}
 
 
+.kontaktilomake {
 
+}
+.liity jäseneksi {
 
-
-
+}
 
 .footer {
-    
+
 }
+
+.float {
+
+}
+
