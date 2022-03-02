@@ -12,7 +12,7 @@
     padding: 5px;
     height: 40px;       
     line-height: 40px;  
-    text-align: center;
+    text-align: start;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
   
@@ -69,6 +69,7 @@ body, html {
 }
 
 .hero-image {
+    text-colo
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://i.pinimg.com/736x/23/78/5c/23785c9808cf10c4f22366a8838ab557.jpg");
     height: fit-content;
     border-radius: 77%;
@@ -159,7 +160,7 @@ ol,li {
 .footer {
     background-image: url("https://wallpapersbook.com/wp-content/uploads/2020/09/background-hockey-9.jpg");
     background-size: 100%;
-    background-position: center;
+    background-position: bottom;
     border-radius: 10%;
     border-style: dotted;
     margin: 40px;
