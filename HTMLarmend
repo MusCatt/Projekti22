@@ -18,7 +18,7 @@
    
 
 <nav class="navigointipalkki > a ">
-    <img class="logo" id="up" src="C:\Users\Janika\OneDrive - Turun kaupunki, sivistystoimi\Projekti (Aleksi)\logo.png">	
+    <img class="logo" id="up" src="C:\Users\Janika\OneDrive - Turun kaupunki, sivistystoimi\Projekti (Aleksi)\logo.png" >	
     
     <a href="Projekti22.html"><p>Etusivu</p></a>
     <a href="seura.html"><p>Seura</p></a>
@@ -35,25 +35,6 @@
 
 
 <body class="tausta">
-
-<div>
-
-
-
-
-<div class="hero-image">
-	<div >
-		<h1>Kiekko- ja luistelukoulut</h1>
-	
-		<nav>
-			<ul id="mainMenu">
-				<li><a href="#joukkueet">Kiekkokoulut</a></li>
-				<li><a href="#joukkueet">Luistelukoulut</a></li>
-			</ul>
-		</nav>
-	</div>
-</div>
-
 
 
 <div class="kontti">
