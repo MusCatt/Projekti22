@@ -1,8 +1,8 @@
-.navigointipalkki > a {
+.navigointipalkki > a { 
     position: sticky;
-    top: 0;
+    top: 5px;
     z-index: 1000;
-    background-image: url(https://images6.alphacoders.com/382/thumb-1920-382978.jpg);
+    background-image: url(https://wallpaperaccess.com/full/1253806.jpg);
     background-attachment: fixed;
     background-size: 100%;
     display: inline-block;
@@ -10,12 +10,33 @@
     vertical-align: top;
     margin-right: 20px;
     padding: 5px;
-    height: 40px;       
-    line-height: 40px;  
-    text-align: start;
+    height: 40px; 
+    line-height: 40px; 
+    text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+ 
   
+
+.navigointipalkki {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/141/298/520/ice-hockey-4k-for-desktop-wallpaper-preview.jpg);
+    background-attachment: fixed;
+    border-style: double;
+    border-radius: 11%;
+    background-size: 100%;
+    width: auto; 
+    height: 120px; 
+    background-color: rgb(20, 87, 163); 
+    
+}
+
+
+
+
+
 .logo {  
     position: sticky;
     top: 0;
@@ -30,34 +51,22 @@
     margin-right: 30px;
     margin-top: 10px;    
 }
-.navigointipalkki {
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    background-image: url(https://c4.wallpaperflare.com/wallpaper/141/298/520/ice-hockey-4k-for-desktop-wallpaper-preview.jpg);
-    background-attachment: fixed;
-    border-style: double;
-    border-radius: 11%;
-    background-size: 100%;
-    width: auto;  
-    height: 120px; 
-    background-color: rgb(131, 164, 255);  
-    
-}
-
-
 
 
 
 body, html {
-    background-color: rgb(69, 187, 187);
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/06/Wallpaper-player-hockey-silhouette.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    background-position: bottom;
+  
     font-family: 'Architects Daughter';
-    font-size: 22px; 
-    color: rgb(23, 31, 151); 
-    text-align: center; 
-    width: 99%;
-    scroll-behavior: smooth;
-    height: 100%;  
+      font-size: 22px; 
+      color: beige; 
+      text-align: center; 
+      width: 99%;
+     scroll-behavior: smooth;
+    height: 100%;
 }
 
 
@@ -122,9 +131,6 @@ ol,ul {
   
 }
 
-.sticky {
-  
-}
 
 ol,li {
 	
@@ -156,10 +162,53 @@ ol,li {
 
 }
 
+
+.module {
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/06/Wallpaper-player-hockey-silhouette.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.darken {
+    padding: 10px;
+    margin: 30px;
+    margin-bottom: 90px;
+    background-position: bottom;
+    background-image: 
+      linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),
+      url("https://www.pixelstalk.net/wp-content/uploads/2016/06/Wallpaper-player-hockey-silhouette.jpg");
+    
+}
+
+
+.darken1 {
+  
+    background-size: 100%;
+    background-position: center;
+    border-radius: 10%;
+     margin: 10px;
+    padding: 10px;
+    text-align: left;
+    font-style:'Times New Roman', Times, serif;
+    color:thistle;
+    font-size: 20px;
+    list-style-type: square;
+    background-image: 
+      linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),
+      url("https://wallpapersbook.com/wp-content/uploads/2020/09/background-hockey-9.jpg");
+}
+
+
 .footer {
     background-image: url("https://wallpapersbook.com/wp-content/uploads/2020/09/background-hockey-9.jpg");
     background-size: 100%;
-    background-position: bottom;
+    background-position: center;
     border-radius: 10%;
     border-style: dotted;
     margin: 40px;
