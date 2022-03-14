@@ -22,7 +22,7 @@
     position: sticky;
     top: 0;
     z-index: 1000;
-    background-image: url(https://c4.wallpaperflare.com/wallpaper/141/298/520/ice-hockey-4k-for-desktop-wallpaper-preview.jpg);
+    background-image: url(https://www.potma.fi/wp18/wp-content/uploads/2018/02/1920x375-potma2-1536x300.jpg);
     background-attachment: fixed;
     border-style: double;
     border-radius: 11%;
@@ -55,7 +55,7 @@
 
 
 body, html {
-    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/06/Wallpaper-player-hockey-silhouette.jpg");
+    background-image: url("https://cutewallpaper.org/21/hockey-background/27-Ice-Hockey-HD-Quality-Pics-GsFDcY-Graphics.jpg");
     background-attachment: fixed;
     background-size: 100%;
     background-position: bottom;
@@ -73,12 +73,36 @@ body, html {
 
  
 
-.tausta {
 
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://i.pinimg.com/736x/23/78/5c/23785c9808cf10c4f22366a8838ab557.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://eiha.co.uk/wp/wp-content/uploads/2018/12/7B39DC793B135621887DB155A685F477.jpg");
     height: fit-content;
     border-radius: 77%;
     margin: 20px; 
@@ -86,6 +110,9 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    margin: 100px; 
+    padding: 20px; 
+
 }
 
 
@@ -98,52 +125,6 @@ body, html {
     color: white;
   }
 
-
-ol,ul {
-
-}
-
-.mainMenu {
-
-	
-
-}
-
-.mainMenu li {
-	
-}
-
-
-
-.flex-container {
-
-}
-
-.valikko {
-
-}
-
-.valikko a {
-
-}
-
-.valikko a:hover {
-  
-}
-
-
-ol,li {
-	
-}
-
-.kontti {
-
-}
-
-
-.kontaktilomake {
-
-}
 
 .otayhteytta {
     border-radius: 5px;
@@ -169,15 +150,50 @@ ol,li {
     top: 50%;
     left: 50%;
     text-align: left;
-    
-
 }
 
+.hinnasto1 {
+  background-color: rgb(138, 175, 243);
+}
+.hinnasto2 {
+  background-color: rgb(203, 218, 247);
+  color: rgba(0, 0, 158, 0.856);
+}
+.hinnasto3 {
+  background-color: rgb(74, 76, 241);
+} 
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+.henkilo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    margin-bottom: 25px;
+    border-radius: 5%;
+  }
+
+.J {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    margin-bottom: 25px;
+    border-radius: 5%;
+  }
  
-
-.liityjäseneksi {
-
-}
 
 .container {
     display: inline-flexbox;
@@ -220,7 +236,7 @@ ol,li {
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.5)
       ),
-      url("https://www.pixelstalk.net/wp-content/uploads/2016/06/Wallpaper-player-hockey-silhouette.jpg");
+      url("https://cutewallpaper.org/21/hockey-background/27-Ice-Hockey-HD-Quality-Pics-GsFDcY-Graphics.jpg");
     
 }
 
@@ -228,28 +244,27 @@ ol,li {
 .darken1 {
   
     background-size: 100%;
-    background-position: center;
+    background-position: bottom;
     border-radius: 10%;
-     margin: 10px;
+    margin: 10px;
     padding: 10px;
     text-align: left;
-    font-style:'Times New Roman', Times, serif;
-    color:thistle;
-    font-size: 20px;
+    font-family: Arial Black;
+    color:rgba(19, 44, 184, 0.836);
+    font-size: 17px;
     list-style-type: square;
     background-image: 
       linear-gradient(
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.5)
       ),
-      url("https://wallpapersbook.com/wp-content/uploads/2020/09/background-hockey-9.jpg");
-}
+      url(https://cdn1.sportngin.com/attachments/call_to_action/ac4d-137299807/tournament_large.png);}
 
 
 .footer {
-    background-image: url("https://wallpapersbook.com/wp-content/uploads/2020/09/background-hockey-9.jpg");
+    background-image: url(https://cdn1.sportngin.com/attachments/call_to_action/ac4d-137299807/tournament_large.png);
     background-size: 100%;
-    background-position: center;
+    background-position: bottom;
     border-radius: 10%;
     border-style: dotted;
     margin: 40px;
